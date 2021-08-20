@@ -1,4 +1,4 @@
-# Sorting-Visualizer
+# Live Site [Sorting Visualizer](https://sorting-algorithm-visualizer-app-shahene.netlify.app)
 
 ## About
 
@@ -22,4 +22,3 @@
 * Selection Sort
 * Merge Sort
 
-## Live Site [Sorting Visualizer](https://sorting-algorithm-visualizer-app-shahene.netlify.app)
