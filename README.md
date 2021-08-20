@@ -1,4 +1,4 @@
-# Live Site [Sorting Visualizer](https://sorting-algorithm-visualizer-app-shahene.netlify.app)
+# Live Site: [Sorting Visualizer](https://sorting-algorithm-visualizer-app-shahene.netlify.app)
 
 ## About
 
