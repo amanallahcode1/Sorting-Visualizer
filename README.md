@@ -15,10 +15,11 @@
 #### HTML 
 #### CSS
 
-## Algorithms:
+## Algorithms
 
 * Bubble Sort
 * Insertion Sort
 * Selection Sort
 * Merge Sort
-  
+
+## Live Site [Sorting Visualizer](https://sorting-algorithm-visualizer-app-shahene.netlify.app)
