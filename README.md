@@ -2,7 +2,7 @@
 
 ## About
 
-#### This sorting visualizer is a project that I have wanted to work on ever since I starting learning about the different array sorting algorithms. Learning about them was very interesting but I did not have a proper way to picture this in my head. This was a great way to help deepen my understanding of these algorithms and see how they perform in different situations (array size).
+#### This sorting visualizer is a project that I have wanted to work on ever since I starting learning about searching and sorting algorithms. I saw that they can be used in so many different applications and came to the conclusion that they were important. Learning about them was very interesting but I did not have a proper way to picture this in my head. This project has been a great way to help deepen my understanding of these algorithms and see how they perform in different situations (array size).
 
 
 
